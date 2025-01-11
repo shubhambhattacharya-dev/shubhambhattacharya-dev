@@ -1,16 +1,13 @@
-## Hi there 👋
+###  Hi there! I’m Shubham 😊
+<hr>
 
-<!--
-**shubhambhattacharya-dev/shubhambhattacharya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 Software Engineer sharing my journey and insights in the tech industry.  
+🎓 Studied Computer Science at Parul University, Vadodara, Gujarat.  
+💻 I enjoy developing new projects, acquiring tech skills, and listening to music.  
+🗣️ I love engaging in conversations and have a passion for traveling.  
+🌱 #LearningInPublic in my digital lab.  
+📚 Currently exploring web development!
 
-Here are some ideas to get you started:
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhambhattacharya-dev&show_icons=true&theme=radical)](https://github.com/shubhambhattacharya-dev/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
