@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 💫 Hi there! I’m Shubham 😊<br>👩🏻‍💻 Software Engineer sharing my journey and insights in the tech industry.<br>🎓 Studied Computer Science at Parul University, Vadodara, Gujarat.<br>💻 I enjoy developing new projects, acquiring tech skills, and listening to music.<br>🗣️ I love engaging in conversations and have a passion for traveling.<br>🌱 #LearningInPublic in my digital lab.<br>📚 Currently exploring web development!
+# 💫 Hi there! I’m Shubham 😊
+👩🏻‍💻 Software Engineer sharing my journey and insights in the tech industry.<br>🎓 Studied Computer Science at Parul University, Vadodara, Gujarat.<br>💻 I enjoy developing new projects, acquiring tech skills, and listening to music.<br>🗣️ I love engaging in conversations and have a passion for traveling.<br>🌱 #LearningInPublic in my digital lab.<br>📚 Currently exploring web development!
 <hr>
 
 
