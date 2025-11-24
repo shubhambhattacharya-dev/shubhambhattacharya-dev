@@ -1,23 +1,51 @@
-# Shubham Bhattacharya
+# Shubham Bhattacharya  
 **Backend Developer (Node.js • Express • MongoDB)**  
-Final-year BCA @ Parul University • Discipline-first 6-month plan for a ₹30K internship
+Final-year BCA @ Parul University • Preparing for a 2025 Backend Internship
 
-## What I’m building
-- Real-time Chat (Socket.io, JWT, MongoDB)
-- GitHub Finder (REST, caching roadmap)
-- CRUD/Blog API (Auth, RBAC, pagination)
+---
 
-## Tech Stack
-Node.js • Express • MongoDB • Mongoose • REST APIs • JWT • Socket.io • Git • Docker (learning)
+## 🚀 What I'm Building
+- **JustChat** — Real-time chat app using Socket.io, JWT, MongoDB  
+- **GitHub Finder** — Search GitHub users via REST API + caching roadmap  
+- **CRUD / Blog API** — Auth, RBAC, pagination, clean controllers  
 
-## Current Mission
-Backend 7Q/day • DSA 5/day • English comms • 15 connections + 5 applications daily
+---
 
-## Featured Projects
-- **JustChat** — Real-time chat (WebSocket/Socket.io) • [Live] • [Code]
-- **GitHub Finder** — Public APIs, search, profile insights • [Live] • [Code]
-- **CRUD Posts** — REST API + client • [Live] • [Code]
+## 🛠 Tech Stack
+**Backend:** Node.js • Express.js • REST APIs • JWT • Mongoose  
+**Database:** MongoDB  
+**Real-Time:** Socket.io • WebSockets  
+**Tools:** Git • Postman • Render • Docker (learning)
 
-## Contact
-LinkedIn: [linkedin.com/in/shubhambhattadev](https://www.linkedin.com/in/shubhambhattadev/)  
-Email: yourmail@example.com
+---
+
+## 🎯 Current Mission (Daily Discipline)
+- Backend: **7 questions/day**  
+- DSA: **5 problems/day**  
+- English communication practice  
+- **15 LinkedIn connections/day**  
+- **5 internship applications/day**  
+
+---
+
+## ⭐ Featured Projects
+
+### 🔥 JustChat — Real-time Chat (Socket.io)
+🔗 **Live:** https://justchat-d566.onrender.com  
+💻 **Code:** https://github.com/shubhambhattacharya-dev/chatApp  
+
+---
+
+### 📘 GitHub Finder — Search GitHub Profiles  
+🔗 **Live:** https://github-clone-aozk.onrender.com  
+💻 **Code:** https://github.com/shubhambhattacharya-dev/github-clone  
+
+---
+
+
+---
+
+## 📬 Contact
+**LinkedIn:** https://www.linkedin.com/in/shubhambhattadev  
+**Email:** shubhambhattacharya107@gmail.com
+
