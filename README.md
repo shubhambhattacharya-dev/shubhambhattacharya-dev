@@ -1,51 +1,18 @@
-# Shubham Bhattacharya  
+# Shubham Bhattacharya 👨‍💻
 **Backend Developer (Node.js • Express • MongoDB)**  
-Final-year BCA @ Parul University • Preparing for a 2025 Backend Internship
+BCA Sem 5 @ Parul University | **Open to Backend Internships Jan-Mar 2026**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhambhattacharya.dev-00D4AA?style=flat&logo=react)](https://shubhambhattacharya.dev)
+[![Chat LIVE](https://img.shields.io/badge/LIVE-Chat_App-00D4AA?style=flat&logo=node.js)](https://justchat-d566.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhambhattadev)
 
 ---
 
 ## 🚀 What I'm Building
-- **JustChat** — Real-time chat app using Socket.io, JWT, MongoDB  
-- **GitHub Finder** — Search GitHub users via REST API + caching roadmap  
-- **CRUD / Blog API** — Auth, RBAC, pagination, clean controllers  
+- **JustChat** — Real-time chat (Socket.io + JWT + MongoDB) **[LIVE]**
+- **GitHub Finder** — REST API + caching (React frontend)
+- **Blog API** — Auth + RBAC + pagination (In progress)
 
 ---
 
 ## 🛠 Tech Stack
-**Backend:** Node.js • Express.js • REST APIs • JWT • Mongoose  
-**Database:** MongoDB  
-**Real-Time:** Socket.io • WebSockets  
-**Tools:** Git • Postman • Render • Docker (learning)
-
----
-
-## 🎯 Current Mission (Daily Discipline)
-- Backend: **7 questions/day**  
-- DSA: **5 problems/day**  
-- English communication practice  
-- **15 LinkedIn connections/day**  
-- **5 internship applications/day**  
-
----
-
-## ⭐ Featured Projects
-
-### 🔥 JustChat — Real-time Chat (Socket.io)
-🔗 **Live:** https://justchat-d566.onrender.com  
-💻 **Code:** https://github.com/shubhambhattacharya-dev/chatApp  
-
----
-
-### 📘 GitHub Finder — Search GitHub Profiles  
-🔗 **Live:** https://github-clone-aozk.onrender.com  
-💻 **Code:** https://github.com/shubhambhattacharya-dev/github-clone  
-
----
-
-
----
-
-## 📬 Contact
-**LinkedIn:** https://www.linkedin.com/in/shubhambhattadev  
-**Email:** shubhambhattacharya107@gmail.com
-
