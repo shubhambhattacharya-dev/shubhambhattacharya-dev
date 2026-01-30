@@ -112,7 +112,7 @@ Personal portfolio showcasing projects and skills
 
 I'm actively looking for **Backend Development Internships (Jan-Mar 2026)** where I can contribute to real-world projects and learn from experienced developers.
 
-**📧 Email:** shubham.bhattacharya@example.com *(update with your actual email)*  
+**📧 Email:** shubhambhattacharya107@gmail.com 
 **💼 LinkedIn:** [linkedin.com/in/shubhambhattadev](https://www.linkedin.com/in/shubhambhattadev)  
 **🌐 Portfolio:** [shubhambhattacharya.dev](https://shubhambhattacharya.dev)  
 **🐦 Twitter/X:** @Shubham_level *(if active)*
