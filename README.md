@@ -69,23 +69,16 @@ BCA Final Year @ Parul University | **Open to Backend Internships | Immediately 
 
 ## 💼 Featured Projects
 
-### 🔥 [EchoSpace - Real-time Collaboration App](https://github.com/shubhambhattacharya-dev)
-Slack-style team collaboration platform with AI-powered responses and real-time channels
-- **Tech:** Node.js, Express, Socket.io, MongoDB, React, JWT
-- **Features:** Real-time channels, AI echo responses, User authentication, Group messaging
-- **[In Progress — Coming Soon]**
-
-### 💬 [JustChat - Real-time Chat App](https://github.com/shubhambhattacharya-dev/chatApp)
+### 🔥 [JustChat - Real-time Chat App](https://github.com/shubhambhattacharya-dev/chatApp)
 Real-time chat application with authentication and live messaging
 - **Tech:** Node.js, Express, Socket.io, MongoDB, React, JWT
 - **Features:** Real-time messaging, User authentication, Online status, Responsive UI
 - **[Live Demo](https://justchat-d566.onrender.com)** | **[GitHub](https://github.com/shubhambhattacharya-dev/chatApp)**
 
-### 🏥 [HealthCare API](https://github.com/shubhambhattacharya-dev/HealthCare)
-REST API for healthcare management with doctor profiles and authentication
-- **Tech:** Node.js, Express, MongoDB, JWT
-- **Features:** Auth system, Doctor management, Role-based access
-- **[GitHub](https://github.com/shubhambhattacharya-dev/HealthCare)**
+### 🌐 [Portfolio Website](https://shubhambhattacharya.dev)
+Personal portfolio showcasing projects and skills
+- **Tech:** HTML, CSS, JavaScript
+- **[Live Site](https://shubhambhattacharya.dev)**
 
 ---
 
