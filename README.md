@@ -12,9 +12,8 @@ BCA Final Year @ Parul University | **Open to Backend Internships | Immediately 
 
 ## 🚀 What I'm Building
 
-- **EchoSpace** — Slack-style real-time collaboration app (Socket.io + Channels + AI responses) **[In Progress]**
 - **JustChat** — Real-time chat (Socket.io + JWT + MongoDB) **[LIVE]**
-- **HealthCare API** — REST API with Auth + Doctor management (Node.js + MongoDB) **[In Progress]**
+- **EchoSpace** — Slack-style real-time collaboration app with AI responses **[Coming Soon]**
 
 ---
 
