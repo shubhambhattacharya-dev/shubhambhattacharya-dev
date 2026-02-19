@@ -1,7 +1,7 @@
 # Shubham Bhattacharya 👨‍💻
 
 **Backend Developer (Node.js • Express • MongoDB)**  
-BCA Sem 5 @ Parul University | **Open to Backend Internships Jan-Mar 2026**
+BCA Final Year @ Parul University | **Open to Backend Internships | Immediately Available**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubhambhattacharya.dev-00D4AA?style=flat&logo=react)](https://shubhambhattacharya.dev)
 [![Chat LIVE](https://img.shields.io/badge/LIVE-Chat_App-00D4AA?style=flat&logo=node.js)](https://justchat-d566.onrender.com)
@@ -12,9 +12,9 @@ BCA Sem 5 @ Parul University | **Open to Backend Internships Jan-Mar 2026**
 
 ## 🚀 What I'm Building
 
+- **EchoSpace** — Slack-style real-time collaboration app (Socket.io + Channels + AI responses) **[In Progress]**
 - **JustChat** — Real-time chat (Socket.io + JWT + MongoDB) **[LIVE]**
-- **GitHub Finder** — REST API + caching (React frontend)
-- **Blog API** — Auth + RBAC + pagination (In progress)
+- **HealthCare API** — REST API with Auth + Doctor management (Node.js + MongoDB) **[In Progress]**
 
 ---
 
@@ -47,10 +47,10 @@ BCA Sem 5 @ Parul University | **Open to Backend Internships Jan-Mar 2026**
 
 ## 🌱 Currently Learning
 
-- Microservices Architecture
-- Docker & Kubernetes
-- System Design Patterns
 - Redis Caching
+- System Design Patterns
+- Docker & Kubernetes
+- Microservices Architecture
 
 ---
 
@@ -70,58 +70,54 @@ BCA Sem 5 @ Parul University | **Open to Backend Internships Jan-Mar 2026**
 
 ## 💼 Featured Projects
 
-### 🔥 [JustChat - Real-time Chat App](https://github.com/shubhambhattacharya-dev/chatApp)
-Real-time chat application with authentication and live messaging features
+### 🔥 [EchoSpace - Real-time Collaboration App](https://github.com/shubhambhattacharya-dev)
+Slack-style team collaboration platform with AI-powered responses and real-time channels
+- **Tech:** Node.js, Express, Socket.io, MongoDB, React, JWT
+- **Features:** Real-time channels, AI echo responses, User authentication, Group messaging
+- **[In Progress — Coming Soon]**
+
+### 💬 [JustChat - Real-time Chat App](https://github.com/shubhambhattacharya-dev/chatApp)
+Real-time chat application with authentication and live messaging
 - **Tech:** Node.js, Express, Socket.io, MongoDB, React, JWT
 - **Features:** Real-time messaging, User authentication, Online status, Responsive UI
 - **[Live Demo](https://justchat-d566.onrender.com)** | **[GitHub](https://github.com/shubhambhattacharya-dev/chatApp)**
 
-### 🔍 [GitHub Finder](https://github.com/shubhambhattacharya-dev/github-clone)
-GitHub user search application with REST API integration
-- **Tech:** React, GitHub API, Caching
-- **Features:** User search, Repo listing, API caching
-
-### 🌐 [Portfolio Website](https://github.com/shubhambhattacharya-dev/Portfolio)
-Personal portfolio showcasing projects and skills
-- **Tech:** HTML, CSS, JavaScript
-- **[Live Site](https://shubhambhattacharya.dev)**
+### 🏥 [HealthCare API](https://github.com/shubhambhattacharya-dev/HealthCare)
+REST API for healthcare management with doctor profiles and authentication
+- **Tech:** Node.js, Express, MongoDB, JWT
+- **Features:** Auth system, Doctor management, Role-based access
+- **[GitHub](https://github.com/shubhambhattacharya-dev/HealthCare)**
 
 ---
 
 ## 🎯 What I Bring to Your Team
 
-✅ **Backend Development** - Building scalable REST APIs with Node.js & Express  
 ✅ **Real-time Systems** - WebSocket implementation with Socket.io  
+✅ **Backend Development** - Scalable REST APIs with Node.js & Express  
+✅ **Authentication & Security** - JWT-based auth, RBAC, ownership checks  
 ✅ **Database Design** - MongoDB schema design and optimization  
-✅ **Authentication** - JWT-based secure authentication systems  
-✅ **Problem Solving** - Strong DSA foundation and debugging skills  
-✅ **Fast Learner** - Quick to adapt to new technologies and frameworks
+✅ **AI Integration** - Building AI-powered features into backend systems  
+✅ **Fast Learner** - Ship fast, learn from production, iterate quickly
 
 ---
 
 ## 🏆 Achievements
 
-- 🚀 Built and deployed 3+ full-stack applications
-- 💡 27+ contributions in January 2026
-- 📱 Created real-time chat app with 100% functionality
-- 🎓 Maintaining consistent GitHub activity
+- 🚀 Built and deployed real-time applications used end-to-end
+- 💡 492 contributions in the last year
+- ⚡ Building EchoSpace — Slack-style app with AI integration
+- 🎓 Final year, available immediately for internships
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm actively looking for **Backend Development Internships (Jan-Mar 2026)** where I can contribute to real-world projects and learn from experienced developers.
+Actively looking for **Backend / Full-Stack Internships** (Bangalore / Hyderabad preferred) — immediately available.
 
-**📧 Email:** shubhambhattacharya107@gmail.com 
+**📧 Email:** shubhambhattacharya107@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/shubhambhattadev](https://www.linkedin.com/in/shubhambhattadev)  
 **🌐 Portfolio:** [shubhambhattacharya.dev](https://shubhambhattacharya.dev)  
-**🐦 Twitter/X:** @Shubham_level *(if active)*
-
----
-
-## 💡 Fun Fact
-
-When I'm not coding, I'm probably exploring new tech stacks or building side projects! 🚀
+**🐦 X:** [@Shubham_level](https://x.com/Shubham_level)
 
 ---
 
@@ -129,6 +125,6 @@ When I'm not coding, I'm probably exploring new tech stacks or building side pro
 
 **⭐ From [shubhambhattacharya-dev](https://github.com/shubhambhattacharya-dev)**
 
-*"Building the backend, one API at a time"* 💻
+*"Ship it, learn from it, build better."* 💻
 
 </div>
