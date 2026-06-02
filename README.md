@@ -1,123 +1,77 @@
-# Hii i am  Shubham Bhattacharya 👨‍💻
+﻿# Hi, I'm Shubham Bhattacharya 👋
 
-
-**Backend Developer (Node.js • Express • MongoDB)**  
-BCA Final Year @ Parul University | **Open to Backend Internships | Immediately Available**
+**Agentic AI Backend Engineer** | Node.js + TypeScript | Building autonomous agents & production-grade AI systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubhambhattacharya.dev-00D4AA?style=flat&logo=react)](https://shubhambhattacharya.dev)
-[![Chat LIVE](https://img.shields.io/badge/LIVE-Chat_App-00D4AA?style=flat&logo=node.js)](https://justchat-d566.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhambhattadev)
-![Profile Views](https://komarev.com/ghpvc/?username=shubhambhattacharya-dev&color=00D4AA)
+[![Twitter](https://img.shields.io/badge/Twitter-@Shubham_level-1DA1F2?style=flat&logo=twitter)](https://x.com/Shubham_level)
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I Build
 
-- **JustChat** — Real-time chat (Socket.io + JWT + MongoDB) **[LIVE]**
-- **EchoSpace** — Slack-style real-time collaboration app with AI responses **[Coming Soon]**
+I specialize in **Agentic AI backends** — autonomous systems that reason, use tools, and self-correct. My stack combines **Node.js + TypeScript** with modern AI frameworks to build production-ready agent workflows.
+
+### 🔥 Featured Projects
+
+| Project | What It Does | Tech |
+|---------|-------------|------|
+| [**Gigi AI Ops**](https://github.com/shubhambhattacharya-dev/Agentic_Project) | Enterprise D2C Customer Support AI Agent with Hybrid RAG & session-secure context injection | TypeScript, Groq/Llama, Prisma, pgvector |
+| [**Medo Copilot**](https://github.com/shubhambhattacharya-dev/Medo_Copilot) | AI-powered launch-readiness auditor for web apps | TypeScript, Next.js, Vercel AI SDK |
+| [**JustChat**](https://github.com/shubhambhattacharya-dev/chatApp) | Real-time chat with JWT auth, Socket.io, Docker | MERN Stack, Socket.io, Docker |
+| [**Portfolio**](https://github.com/shubhambhattacharya-dev/Portfolio) | Personal portfolio with dark/light theme | HTML, CSS, JavaScript |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+**Languages & Runtime:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+**AI & Agent Frameworks:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Backend & Database:**
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-**Tools & Technologies:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-
-- Redis Caching
-- System Design Patterns
-- Docker & Kubernetes
-- Microservices Architecture
+**DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhambhattacharya-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhambhattacharya-dev&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhambhattacharya-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambhattacharya-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=ffffff)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambhattacharya-dev&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 💼 Featured Projects
+## 🎯 Current Focus
 
-### 🔥 [JustChat - Real-time Chat App](https://github.com/shubhambhattacharya-dev/chatApp)
-Real-time chat application with authentication and live messaging
-- **Tech:** Node.js, Express, Socket.io, MongoDB, React, JWT
-- **Features:** Real-time messaging, User authentication, Online status, Responsive UI
-- **[Live Demo](https://justchat-d566.onrender.com)** | **[GitHub](https://github.com/shubhambhattacharya-dev/chatApp)**
-
-### 🌐 [Portfolio Website](https://shubhambhattacharya.dev)
-Personal portfolio showcasing projects and skills
-- **Tech:** HTML, CSS, JavaScript
-- **[Live Site](https://shubhambhattacharya.dev)**
+- Building **autonomous AI agents** with LangGraph.js and tool-calling patterns
+- Implementing **RAG pipelines** with pgvector for zero-hallucination retrieval
+- Exploring **MCP (Model Context Protocol)** for standardized AI tool integration
+- Contributing to open-source AI agent frameworks
 
 ---
 
-## 🎯 What I Bring to Your Team
+## 📫 Let's Connect
 
-✅ **Real-time Systems** - WebSocket implementation with Socket.io  
-✅ **Backend Development** - Scalable REST APIs with Node.js & Express  
-✅ **Authentication & Security** - JWT-based auth, RBAC, ownership checks  
-✅ **Database Design** - MongoDB schema design and optimization  
-✅ **AI Integration** - Building AI-powered features into backend systems  
-✅ **Fast Learner** - Ship fast, learn from production, iterate quickly
+- 📧 Email: shubhambhattacharya107@gmail.com
+- 🌐 Portfolio: [shubhambhattacharya.dev](https://shubhambhattacharya.dev)
+- 💼 LinkedIn: [shubhambhattadev](https://www.linkedin.com/in/shubhambhattadev)
+- 🐦 Twitter: [@Shubham_level](https://x.com/Shubham_level)
 
 ---
 
-## 🏆 Achievements
-
-- 🚀 Built and deployed real-time applications used end-to-end
-- 💡 492 contributions in the last year
-- ⚡ Building EchoSpace — Slack-style app with AI integration
-- 🎓 Final year, available immediately for internships
-
----
-
-## 📫 Let's Connect!
-
-Actively looking for **Backend / Full-Stack Internships** (Bangalore / Hyderabad preferred) — immediately available.
-
-**📧 Email:** shubhambhattacharya107@gmail.com  
-**💼 LinkedIn:** [linkedin.com/in/shubhambhattadev](https://www.linkedin.com/in/shubhambhattadev)  
-**🌐 Portfolio:** [shubhambhattacharya.dev](https://shubhambhattacharya.dev)  
-**🐦 X:** [@Shubham_level](https://x.com/Shubham_level)
-
----
-
-<div align="center">
-
-**⭐ From [shubhambhattacharya-dev](https://github.com/shubhambhattacharya-dev)**
-
-*"Ship it, learn from it, build better."* 💻
-
-</div>
+*"The best way to predict the future is to build it."*
